@@ -1,0 +1,26 @@
+{
+  "name": "javascript-train-station",
+  "version": "1.0.0",
+  "description": "Manual to train Javascript",
+  "keywords": [
+    "JavaScript",
+    "train",
+    "test",
+    "manual"
+  ],
+  "homepage": "https://github.com/AbayReushenov/javascript-train-station#readme",
+  "bugs": {
+    "url": "https://github.com/AbayReushenov/javascript-train-station/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbayReushenov/javascript-train-station.git"
+  },
+  "license": "MIT",
+  "author": "Abay Reushenov",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  }
+}
